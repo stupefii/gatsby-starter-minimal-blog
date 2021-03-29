@@ -9,7 +9,6 @@ module.exports = {
     siteTitleAlt: `智弱網民 一個中年大叔的無病呻呤`,
     siteTitle: `智弱網民`,
   },
-  plugins: [`gatsby-plugin-mdx-embed`]
   
   plugins: [
     {
